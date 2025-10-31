@@ -65,5 +65,5 @@ The results demonstrated that with proper tuning and early stopping, both Adam a
 
 ---
 
-*Author: [Your Name]*  
+*Author: Ponlakshmi Raman*  
 *Project Type: Deep Learning Practice — Neural Network Optimisation and Regularisation*
